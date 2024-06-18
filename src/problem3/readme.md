@@ -4,8 +4,10 @@ THE ISSUES AND IMPROVEMENT
 Instead of using switch cases, I use the blockChainValue object to map from the blockchain type to a value.
 
 From:
+
 ![alt text](image.png)
 To:
+
 ![alt text](image-1.png)
 
 Using the way as in the above code can be considered more optimal than using switch cases in many cases. Here are some reasons why:
